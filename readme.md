@@ -1,6 +1,6 @@
 # Turtlebot Map Navigation and Parts Search
 
-**Note**: This project was done in collaboration with <a [href='https://github.com/vedran97](https://github.com/theunknowninfinite)'>Jayasuriya Suresh</a> and <a href='https://github.com/SakshamV'>Saksham Verma</a> for ENPM809Y at the University of Maryland, College Park
+**Note**: This project was done in collaboration with <a href='https://github.com/theunknowninfinite'>Jayasuriya Suresh</a> and <a href='https://github.com/SakshamV'>Saksham Verma</a> for ENPM809Y at the University of Maryland, College Park
 
 <div style="text-align:center;">
     <img src="https://github.com/Shyam-pi/Aruco-based-Map-Navigation/assets/57116285/ef8bd364-fb6c-45c5-8fa2-f98df9376c24" alt="Image" />
