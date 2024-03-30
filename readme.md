@@ -1,9 +1,6 @@
+# Turtlebot Map Navigation and Parts Search
 
-Certainly! Here's a README template for your completed project:
-
----
-
-# ENPM809Y Final Project - Fall 2023
+![image](https://github.com/Shyam-pi/Aruco-based-Map-Navigation/assets/57116285/ef8bd364-fb6c-45c5-8fa2-f98df9376c24)
 
 ## Overview
 The project focuses on creating a ROS package to perform various tasks like detecting aruco markers, and using logical cameras' outputs to find different parts in a map, for a Turtlebot.
