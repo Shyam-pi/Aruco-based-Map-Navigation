@@ -21,7 +21,7 @@ The project focuses on creating a ROS package to perform various tasks like dete
 - **Pose Navigation:** Write an action client to navigate the Turtlebot through poses in a specific order.
 - **Documentation:** Ensure all code, methods, and attributes are properly documented using Doxygen.
 
-# Running the Code
+## Running the Code
 1. Paste the package under the src folder in the workspace, the path is final_ws/src if step 1 is followed.
 2. Ensure that you "export TURTLEBOT3_MODEL=waffle ".
 3. Make sure you have cd into the root of the workspace and the package is sourced as "source install/setup.bash".
@@ -29,5 +29,5 @@ The project focuses on creating a ROS package to perform various tasks like dete
 5. After rviz has opened up with the gazebo world spawned with the robot and map ,Please run the following command "ros2 launch group7_final test.launch.py".
 6. The robot will start navigation and can been seen in gazebo and rviz
 
-#  Output
+##  Output
 The video recording of the same package can be found at https://drive.google.com/file/d/1oFRuKR9_YJDQGJu6jlrGzA5-5If8gBDy/view?usp=sharing.
